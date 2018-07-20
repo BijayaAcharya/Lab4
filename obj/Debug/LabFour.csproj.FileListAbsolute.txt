@@ -1,0 +1,7 @@
+C:\Users\Bijay\source\repos\LabFour\LabFour\bin\Debug\LabFour.exe.config
+C:\Users\Bijay\source\repos\LabFour\LabFour\bin\Debug\LabFour.exe
+C:\Users\Bijay\source\repos\LabFour\LabFour\bin\Debug\LabFour.pdb
+C:\Users\Bijay\source\repos\LabFour\LabFour\obj\Debug\LabFour.csprojAssemblyReference.cache
+C:\Users\Bijay\source\repos\LabFour\LabFour\obj\Debug\LabFour.csproj.CoreCompileInputs.cache
+C:\Users\Bijay\source\repos\LabFour\LabFour\obj\Debug\LabFour.exe
+C:\Users\Bijay\source\repos\LabFour\LabFour\obj\Debug\LabFour.pdb
